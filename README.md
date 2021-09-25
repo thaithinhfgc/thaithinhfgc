@@ -8,7 +8,7 @@
   <a href="mailto:thaithinhbanzai79@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ac53c9"></a>
   <a href="https://www.linkedin.com/in/thaithinhfgc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ac53c9"></a> 
   <a href="https://www.facebook.com/thaithinhfgc/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=ac53c9"></a>
-  <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=ac53c9"></a>
+  <a href="https://github.com/thaithinhfgc/" target="_blank"><img src="https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=ac53c9"></a>
 </p>
 
 
