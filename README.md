@@ -13,8 +13,9 @@
 
 ### Languages and Softwares:
 <p align="center">   
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title = "Java"  /></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/unity.png" title = "Java"  /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" title = "Java"  /></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title = "Java"  /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/sql.png" title = "SQL"  /></code>
 <code><img width="40px" src="https://img.icons8.com/dusk/50/000000/postman-api.png" title = "Postman"  /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title = "HTML5"  /></code>
