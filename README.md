@@ -43,7 +43,7 @@
   ### Activity Graph
 
   <div>
-    <a href="#"><img alt="Thai Thinh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thaithinhfgc&custom_title=Thai%20Thinh's%20Contribution%20Graph&bg_color=0D1117&color=b16be3&line=5f55ed&point=45e9ff&hide_border=true" /></a>
+    <a href="#"><img alt="Thai Thinh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=thaithinhfgc&custom_title=Thai%20Thinh%27s%20Contribution%20Graph&bg_color=0D1117&color=b16be3&line=5f55ed&point=45e9ff&hide_border=true" /></a>
   <div> 
 </div>
 
